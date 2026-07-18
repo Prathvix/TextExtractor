@@ -76,7 +76,7 @@ Issues and pull requests are welcome. This is an early-stage indie project, so f
 
 ## Support
 
-If this tool is useful to you, consider starring the repo — it genuinely helps visibility. A donation link may be added here in the future.
+If this tool is useful to you, consider starring the repo — it genuinely helps visibility. 
 
 ## License
 
